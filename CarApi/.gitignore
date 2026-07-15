@@ -1,2 +1,5 @@
 bin/
 obj/
+cars.db-shm
+cars.db-wal
+cars.db
